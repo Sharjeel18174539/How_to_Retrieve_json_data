@@ -1,0 +1,59 @@
+[
+  {
+    "name" : "Tanzeel",
+    "age" : "52",
+    "height": "165",
+    "hairColor" : "black",
+    "gender" : "male"
+  },
+  {
+    "name" : "Shaheen",
+    "age" : "42",
+    "height": "160",
+    "hairColor" : "black",
+    "gender" : "female"
+  },
+
+  {
+    "name" : "Sharjeel",
+    "age" : "23",
+    "height": "158",
+    "hairColor" : "black",
+    "gender" : "male"
+  },
+  {
+    "name" : "Kadija",
+    "age" : "20",
+    "height": "155",
+    "hairColor" : "black",
+    "gender" : "female"
+  },
+  {
+    "name" : "Zumeen",
+    "age" : "20",
+    "height": "155",
+    "hairColor" : "black",
+    "gender" : "female"
+  },
+  {
+    "name" : "Monish",
+    "age" : "19",
+    "height": "168",
+    "hairColor" : "black",
+    "gender" : "male"
+  },
+  {
+    "name" : "Sumaiya",
+    "age" : "9",
+    "height": "158",
+    "hairColor" : "black",
+    "gender" : "female"
+  },
+  {
+    "name" : "Ayesha",
+    "age" : "3",
+    "height": "60",
+    "hairColor" : "black",
+    "gender" : "female"
+  }
+]
